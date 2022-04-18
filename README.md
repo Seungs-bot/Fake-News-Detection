@@ -1,4 +1,4 @@
-# BCF1 Group 6 - Fake News Detecction Repo
+# BCF1 Group 6 - Fake News Detection Repo
 
 ## Information
 - Repository for SC1015 Intro to DSAI AY21/22 Sem 2 project
